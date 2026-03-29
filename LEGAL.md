@@ -8,7 +8,7 @@ The Hyprspace source and patch-control repository is private at `PeachlifeAB/hyp
 
 ## Third-Party Dependencies
 
-Hyprspace bundles the same third-party dependencies as AeroSpace. Each published release zip includes `legal/third-party-license/` with the bundled dependency license texts. A summary is maintained in the private-source `docs/legal.md` and mirrored in release artifacts for offline reading.
+Hyprspace bundles the same third-party dependencies as AeroSpace. Each published release zip includes `legal/third-party-license/` with the bundled dependency license texts. A summary is maintained in the private-source `artifacts/docs/legal.md` and mirrored in release artifacts for offline reading.
 
 ## Code Signing and Notarization
 
@@ -31,7 +31,7 @@ External users and auditors can inspect the following public surfaces without ac
 Each public Hyprspace release zip contains at least the following user-visible/legal surfaces:
 
 - `README.md`
-- `docs/legal.md`
+- `artifacts/docs/legal.md`
 - `legal/README.md`
 - `legal/LICENSE.txt`
 - `legal/third-party-license/`
